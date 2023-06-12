@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Evolution of Wired Technology to Wireless</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    p {
+      margin-bottom: 10px;
+    }
+    
+    .timeline {
+      margin-top: 30px;
+    }
+    
+    .event {
+      margin-bottom: 20px;
+      padding-left: 20px;
+      position: relative;
+    }
+    
+    .event:before {
+      content: "";
+      width: 15px;
+      height: 15px;
+      background-color: #333;
+      position: absolute;
+      left: -7px;
+      top: 2px;
+      border-radius: 50%;
+    }
+    
+    .event:last-child {
+      margin-bottom: 0;
+    }
+    
+    .event h3 {
+      margin-top: 0;
+    }
+    
+    .event p {
+      margin-top: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Evolution of Wired Technology to Wireless</h1>
+  
+  <div class="timeline">
+    <div class="event">
+      <h3>Wired Technology</h3>
+      <p>From wired to wireless networks, technology has travelled a remarkable path. The earliest networks' range and mobility were constrained since they were physically wired together. Wireless networks were created as technology advanced, allowing for more mobility and range. Wireless networks are widely used in today's world, from mobile phones to smart homes.</p>
+    </div>
+ <div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\1.jfif">
+ </div>
+    
+    <div class="event">
+      <h3>Introduction of Wireless Communication</h3>
+      <p>The wired network technology has come a long way from its inception in the 1800s. It continues to develop and push the boundaries of speed as researchers find faster ways to transport data, much like wireless network communications.</p>
+    </div>
+<div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\2.jfif">
+ </div>
+    
+    <div class="event">
+      <h3>Wireless Networking</h3>
+      <p>The drawbacks of wired networks became obvious as computer networks spread throughout society. Device mobility was restricted by cables, making it challenging to expand the network or add new devices without extensive rewiring. To overcome these restrictions, wireless networks were created, and they quickly gained acceptance.</p>
+    </div>
+<div>
+	<p>To transfer data between devices, wireless networks use radio waves. In the 1980s, private technology were employed to create the first wireless networks. In comp
+These early networks were slower than wired networks and frequently had a smaller coverage area. Wireless networks, however, grew quicker and more dependable as technology advanced.</p>
+</div>
+<div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\3.jfif">
+ </div>
+    
+    <div class="event">
+      <h3>Evolution of Communication</h3>
+      <p>Broadband networks and communication have advanced for more than a century. The following are some of the most influential developments in wired network technology throughout history that have inspired current developments:</p>
+    </div>
+    
+  <div>
+      <p>1876: The invention of the telephone started a revolution towards wired communications.</p>
+<p>1964: With the introduction of optical fiber, the potential of wired networks skyrocketed.</p>
+<p>1970: Ethernet technology, which uses a coaxial-based or twisted copper transport system was developed.</p>
+<p>1980: During this decade, researchers built the foundation for a digital subscriber line (DSL).</p>
+<p>2000: Broadband technology became available to consumers. Today, more than 20 million users trust it.</p>
+<p>As was seen, the history of wired network technology has focused on finding new methods for data delivery.</p>
+    </div>
+<div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\4.jfif">
+ </div>
+ <div class="event">
+<h3>Wi-FI</h3>
+<div>
+      <p>Wireless networks are widely used today and may be found in everything from smart homes to mobile phones. The most widely used wireless networking technology is Wi-Fi, which is utilised in homes, offices, and public places all over the world. Wi-Fi has transformed the way we work, communicate, and access information by enabling devices to connect to the internet without the use of actual cords.</p>
+    </div>
+    <div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\5.jfif">
+ </div>
+ <div class="event">
+<h3>BlueTooth</h3>
+    <div>
+      <p>There are numerous other wireless networking protocols in use today in addition to Wi-Fi. Cellular networks are necessary for mobile phones and other mobile devices because they allow mobile devices to connect to the internet utilising cellular data networks. Another widely used wireless technology is Bluetooth, which is used for close-quarters communication, like linking a speaker and a phone.</p>
+    </div>
+<div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\6.jfif">
+ </div>
+ <div class="event">
+<h3>Future Technology</h3>
+<div>
+<p>What course is wired internet technology currently heading in? Partnership. With the development of wireless network technology, many businesses in the telecoms sector are starting to take an integrated approach to the future of wired internet technology. The following are some of the most recent technologies that mix wired and wireless features:</p>
+</div>
+ <div class="event">
+<h3>Fi-WI</h3>
+<div>
+
+<p>FiWi
+Businesses intend to combine wired and wireless technology through fiber-wireless (FiWi) networks. This strategy combines the distinct advantages of the two technologies, such as the speed of wired networks and the convenience of wireless ones, in addition to preventing a gap between them.</p>
+  </div>
+<div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\7.jfif">
+ </div>
+ <div class="event">
+<h3>DAS</h3>
+<div>
+<p>DAS
+Broadband wireless access is offered via Distributed Antenna Systems (DAS), which use radio-over-fiber (RoF) networks. The system works on the principle that optical signals are received by a centre unit, which remote antenna units connect to through optical fibre. The antennas then pick them up and convert them without further processing.</p>
+</div>
+<div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\8.jfif">
+ </div>
+ <div class="event">
+<h3>Advancements of Wireless Technology</h3>
+  <div>
+<p>Although wired network technology is influenced by investments made by industry titans, smaller businesses and academic institutions frequently make technological contributions that resurrect the sector. One of the reasons is that a lot of companies concentrate on improving their current items to satisfy customer demand.</p>
+<p>The fact that the researchers made this discovery utilising already-in-place broadband network cables is helpful. The rise was caused by the way they transmitted the data, using multiple light pulses with different frequency. A development of such nature might have a significant impact on future developments in broadband networks and communication.</p>
+</div>
+<p>Wired technology is advancing at new rates with various methods.</p>
+<div class="images">
+ <img src="C:\Users\yuvra\OneDrive\Desktop\9.jfif">
+ <div class="event">
+<h3>The Video Reference</h3>
+<p>"Video Reference below ⬇️"</p>
+<p><video src="C:\Users\yuvra\OneDrive\Desktop\Ericsson_ The History of Wireless Communication.mp4" controls>  </video></p>
+ <div class="event">
+<h3>Info of the Creator</h3>
+
+
+<p> <mark> 'HTML Webpage by Yuvraj Deshaboina/Class:7C/Roll no:34'</mark> </p>
+
+
+<script>
+	window.onscroll = function() {myFunction()};
+
+	function myFunction() 
+	  {var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+	  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+	  var scrolled = (winScroll / height) * 100;
+	  document.getElementById("progress-bar").style.width = scrolled + "%";}
+	
+</script>
+</body>
+</html>
